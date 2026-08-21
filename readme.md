@@ -34,10 +34,10 @@ I am a **Full-Stack Engineer** who specializes in **Flutter** and **Scalable Bac
     </tr>
     <tr>
       <td align="center">
-        <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,python,htmlline=2" alt="Frontend" /></a>
+        <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,c,c++&perline=2" alt="Frontend" /></a>
       </td>
       <td align="center">
-        <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali,linux,python,bash,docker,aws&perline=3" alt="Security" /></a>
+        <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali,linux,python,android,windows &perline=3" alt="Security" /></a>
       </td>
     </tr>
   </table>
