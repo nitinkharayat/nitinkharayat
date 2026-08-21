@@ -6,45 +6,42 @@
 
   <br/><br/>
 
-  <!-- Neon Moving Text -->
+  <!-- Neon Moving Text (Infinite Loop) -->
   <a href="https://nitinkharayat.vercel.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=50&lines=⚡+Flutter+Full-Stack+Engineer;🛡️+Cybersecurity+%26+Penetration+Testing;⚙️+Architecting+Secure+Backend+Systems;🚀+Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=50&lines=⚡+Flutter+Full-Stack+Engineer;🛡️+Cybersecurity+%26+Penetration+Testing;⚙️+Architecting+Secure+Backend+Systems;🚀+Building+Unbreakable+Digital+Fortresses" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
 ### 👨‍💻 System Overview
-I am a Full-Stack Engineer who specializes in **Flutter** and **Scalable Backend Systems**, with a paranoid obsession for **Cybersecurity**. I build applications that are not only visually stunning but structurally bulletproof against modern web vulnerabilities.
+I am a **Full-Stack Engineer** who specializes in **Flutter** and **Scalable Backend Systems**, with a paranoid obsession for **Cybersecurity**. I build applications that are not only visually stunning but structurally bulletproof against modern web vulnerabilities.
 
-- 🔭 **Current Focus:** Advanced Flutter Architectures & DevSecOps.
+- 🔭 **Current Focus:** Advanced Flutter Architectures, Node.js Microservices & DevSecOps.
 - 🛡️ **Security Paradigm:** "Build it like an attacker is already inside."
 - 💼 **Portfolio:** [nitinkharayat.vercel.com](https://nitinkharayat.vercel.com)
 - 📫 **Ping Me:** [kharayatnitin99@gmail.com](mailto:kharayatnitin99@gmail.com)
 
 ---
 
-### ⚙️ The Core Stack (Frontend, Backend & Sec)
+### ⚙️ The Core Stack
 
 <div align="center">
   <table>
     <tr>
       <td align="center"><b>Mobile & Frontend</b></td>
       <td align="center"><b>Backend & Databases</b></td>
-      <td align="center"><b>Cybersecurity & DevOps</b></td>
+      <td align="center"><b>Cybersecurity & OS</b></td>
     </tr>
     <tr>
-      <!-- Flutter Focus -->
       <td align="center">
         <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind&perline=2" alt="Frontend" /></a>
       </td>
-      <!-- Heavy Backend Focus -->
       <td align="center">
         <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,mysql&perline=3" alt="Backend" /></a>
       </td>
-      <!-- Security & Architecture -->
       <td align="center">
-        <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali,linux,python,bash,docker,aws&perline=3" alt="DevSecOps" /></a>
+        <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali,linux,python,bash,docker,aws&perline=3" alt="Security" /></a>
       </td>
     </tr>
   </table>
@@ -52,7 +49,7 @@ I am a Full-Stack Engineer who specializes in **Flutter** and **Scalable Backend
 
 ---
 
-### 📊 Real-Time Telemetry (Stats)
+### 📊 Real-Time Telemetry
 
 <div align="center">
   <a href="https://github.com/nitinkharayat">
@@ -65,17 +62,10 @@ I am a Full-Stack Engineer who specializes in **Flutter** and **Scalable Backend
 
 ---
 
-### 🏙️ 3D Contribution Map & Activity
-
-Recruiters love visual proof of consistency. Below is a live-rendered 3D map of my GitHub activity alongside an automated pathfinding algorithm hunting down my commits.
+### 🐍 Infinite Contribution Tracker (Live)
 
 <div align="center">
-  <!-- 3D Render -->
-  <img src="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Graph" width="100%" />
-  
-  <br/><br/>
-
-  <!-- Red Snake Animation -->
+  <!-- This SVG runs an endless animation loop directly in the browser -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/output/github-contribution-grid-snake.svg">
@@ -89,4 +79,10 @@ Recruiters love visual proof of consistency. Below is a live-rendered 3D map of 
 
 <div align="center">
   <a href="https://nitinkharayat.vercel.com"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=Google-Chrome&logoColor=00FF99" alt="Website"/></a>
-  <a href="mailto:kharayatnitin99@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoC
+  <a href="mailto:kharayatnitin99@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email"/></a>
+  <a href="https://linkedin.com/in/nitinkharayat"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF99" alt="LinkedIn"/></a>
+</div>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/nitinkharayat/count.svg" alt="Profile Views" />
+</p>
