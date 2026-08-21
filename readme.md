@@ -38,9 +38,6 @@ I am a **Full-Stack Engineer** who specializes in **Flutter** and **Scalable Bac
         <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind&perline=2" alt="Frontend" /></a>
       </td>
       <td align="center">
-        <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,mysql&perline=3" alt="Backend" /></a>
-      </td>
-      <td align="center">
         <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali,linux,python,bash,docker,aws&perline=3" alt="Security" /></a>
       </td>
     </tr>
