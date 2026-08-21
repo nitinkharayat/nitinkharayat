@@ -1,223 +1,99 @@
-# Nitin Kharayat
+<div align="center">
+  <!-- Banner Image -->
+  <img src="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/main/banner.gif" alt="Nitin Kharayat Banner" width="100%" />
 
-### Flutter Developer · Cybersecurity · CSE
+  <br/>
 
-Building with **Flutter, Python, cybersecurity, AI/ML, and computer science fundamentals**.
+  <!-- Dynamic Typing Animation -->
+  <a href="https://nitinkgharayat.vercel.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&height=50&lines=⚡+Flutter+Full-Stack+Developer;🛡️+Cybersecurity+Enthusiast;💻+Building+Secure+%26+Scalable+Apps;🚀+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://nitinkharayat.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nitinkharayat)
-
----
-
-## `01` — ABOUT
-
-I'm a Computer Science student interested in building software with a strong focus on **interface design, mobile development, security, and practical engineering**.
-
-My current interests sit around:
-
-🔹 **Flutter** — mobile applications, interaction design, and polished UI
-🔹 **Cybersecurity** — application security, networking, Linux, and defensive concepts
-🔹 **Python** — automation, scripting, tooling, and AI/ML experiments
-🔹 **C / C++** — programming fundamentals and DSA
-🔹 **AI / ML** — intelligent systems and practical experimentation
+  <p align="center">
+    <a href="https://nitinkgharayat.vercel.com" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## `02` — TECH STACK
+### 👨‍💻 About Me
 
-### Languages
+Welcome to my digital fortress! I bridge the gap between **beautiful user interfaces** and **bulletproof backend systems**. With a deep passion for **Cybersecurity**, I don't just build apps—I build them *securely*.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,dart" height="45"/>
-</p>
-
-### Frameworks & UI
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter" height="45"/>
-</p>
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="45"/>
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="45"/>
-</p>
+*   🔭 I’m currently building awesome things with **Flutter** & **Node.js**
+*   🛡️ Actively hunting bugs and learning advanced **Cybersecurity & Penetration Testing**
+*   🌱 I’m currently exploring **Secure Architecture & DevSecOps**
+*   💬 Ask me about: **Flutter, Dart, Backend Dev, Web Security, & Ethical Hacking**
+*   ⚡ Fun fact: *I believe the best defense is a highly optimized and deeply understood offensive strategy.*
 
 ---
 
-## `03` — FOCUS
+### 🛠️ Tech Stack & Arsenal
 
-<table>
-<tr>
-<td align="center" width="25%">
+<div align="center">
 
-### 📱
+#### 📱 Mobile & Frontend
+<a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css,js" /></a>
 
-**Flutter**
+#### ⚙️ Backend & Database
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgres" /></a>
 
-Mobile Apps
-UI / UX
-Material Design
+#### 🛡️ Cybersecurity & OS
+<a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,bash,python,network" /></a>
 
-</td>
+#### 🔧 Tools & Architecture
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" /></a>
 
-<td align="center" width="25%">
-
-### 🛡️
-
-**Cybersecurity**
-
-Security Fundamentals
-Networking
-Secure Development
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**AI / ML**
-
-Machine Learning
-Data Processing
-Intelligent Systems
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻
-
-**Computer Science**
-
-DSA
-C / C++
-Problem Solving
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## `04` — HOW I BUILD
+### 📊 GitHub Analytics
 
-```text
-          💡 IDEA
-             │
-             ▼
-       🎨 DESIGN
-             │
-             ▼
-       ⚙️ DEVELOP
-             │
-             ▼
-       🧪 TEST
-             │
-             ▼
-       🛡️ SECURE
-             │
-             ▼
-        🚀 SHIP
-```
+<div align="center">
+  
+  <!-- Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nitinkharayat&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 
-I care about both sides of development:
+  <br/><br/>
 
-**What the user sees**
-→ interface, hierarchy, interaction, responsiveness
+  <!-- Stats & Streak Side by Side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nitinkharayat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=00FF99" height="195px" alt="Nitin's Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinkharayat&theme=radical&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" height="195px" alt="Nitin's Streak"/>
+  
+  <br/><br/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkharayat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99" alt="Top Languages"/>
 
-**What the system does**
-→ architecture, performance, security, reliability
+</div>
 
 ---
 
-## `05` — DESIGN PRINCIPLES
+### 🐍 Commits Activity (The Recruiter Flex)
 
-🎯 **Purpose**
-Every element should serve a function.
-
-📐 **Hierarchy**
-Important information should be immediately understandable.
-
-🧩 **Consistency**
-Components should feel like parts of one system.
-
-⚡ **Feedback**
-Interactions should clearly communicate state and results.
-
-🛡️ **Security**
-Security should be considered during development, not added as decoration afterward.
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
-## `06` — CURRENT DIRECTION
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://nitinkgharayat.vercel.com"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=Google-Chrome&logoColor=00FF99" alt="Website"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF99" alt="Email"/></a>
+  <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF99" alt="LinkedIn"/></a>
+</div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,python,cpp,dart,linux,git,github" />
-</p>
-
-```text
-Flutter
-   │
-   ├── UI / UX
-   └── Mobile Development
-
-Python
-   │
-   ├── Automation
-   ├── AI / ML
-   └── Security Tooling
-
-C / C++
-   │
-   └── DSA + Fundamentals
-
-Cybersecurity
-   │
-   ├── Networking
-   ├── Web Security
-   └── Secure Development
-```
-
----
-
-## `07` — GITHUB
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nitinkharayat&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkharayat&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=nitinkharayat&hide_border=true&theme=transparent"/>
-</p>
-
----
-
-## `08` — CONNECT
-
-<p>
-<a href="https://github.com/nitinkharayat">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://nitinkharayat.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-
----
-
-<p align="center">
-
-### BUILD · DESIGN · SECURE
-
-<img src="https://komarev.com/ghpvc/?username=nitinkharayat&style=flat-square&color=111827" />
-
+  <img src="https://profile-counter.glitch.me/nitinkharayat/count.svg" alt="Profile Views" />
 </p>
