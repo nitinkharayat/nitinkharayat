@@ -49,7 +49,6 @@ I am a **Full-Stack Engineer** who specializes in **Flutter** and **Scalable Bac
 ### 📊 Real-Time Telemetry
 
 <div align="center">
-itHub Stats"/>
   </a>
   <a href="https://github.com/nitinkharayat">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinkharayat&theme=radical&hide_border=true&background=0D1117&ring=00FF99&fire=FF0000&currStreakLabel=00FF99&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" height="195px" alt="GitHub Streak"/>
