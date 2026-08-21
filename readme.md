@@ -1,47 +1,79 @@
-<div align="center"><img src="./banner.gif" width="100%" alt="Nitin Kharayat"/><br/><br/>
+<div align="center">  
+  <!-- Dynamic Animated Banner -->  
+  <a href="https://nitinkharayat.vercel.com" target="_blank">  
+    <img src="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/main/banner.gif" alt="Nitin Kharayat" width="100%" style="border-radius: 15px;"/>  
+  </a>  <br/><br/>
 
-NITIN KHARAYAT
+  <!-- Neon Moving Text (Infinite Loop) -->    <a href="https://nitinkharayat.vercel.com">  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=50&lines=⚡+Flutter+Full-Stack+Engineer;🛡️+Cybersecurity+%26+Penetration+Testing;⚙️+Architecting+Secure+Backend+Systems;🚀+Building+Unbreakable+Digital+Fortresses" alt="Typing SVG" />  
+  </a>  
+</div>  
+---
 
-⚡ FLUTTER DEVELOPER
+👨‍💻 System Overview
 
-🛡️ CYBERSECURITY RESEARCHER
+I am a Full-Stack Engineer who specializes in Flutter and Scalable Backend Systems, with a paranoid obsession for Cybersecurity. I build applications that are not only visually stunning but structurally bulletproof against modern web vulnerabilities.
 
-⚙️ FULL-STACK DEVELOPER
+🔭 Current Focus: Advanced Flutter Architectures, Node.js Microservices & DevSecOps.
 
-<br/><a href="https://nitinkharayat.vercel.app">
-  <img src="https://img.shields.io/badge/VISIT_WEBSITE-07111F?style=for-the-badge&logo=googlechrome&logoColor=00E5FF"/>
-</a></div>---
+🛡️ Security Paradigm: "Build it like an attacker is already inside."
 
-<div align="center">LANGUAGES
+💼 Portfolio: nitinkharayat.vercel.com
 
-<img src="https://skillicons.dev/icons?i=html,dart,c,cpp,python&theme=dark&perline=5" alt="HTML Dart C C++ Python"/></div>---
+📫 Ping Me: kharayatnitin99@gmail.com
 
-<div align="center">FLUTTER
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,android&theme=dark&perline=3" alt="Flutter Dart Android"/><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel&theme=dark&perline=4" alt="VS Code Git GitHub Vercel"/></div>---
+---
 
-<div align="center">SYSTEMS
+⚙️ The Core Stack
 
-<img src="https://skillicons.dev/icons?i=windows,linux,kali,bash,android&theme=dark&perline=5" alt="Windows Linux Kali Bash Android"/></div>---
+<div align="center">  
+  <table>  
+    <tr>  
+      <td align="center"><b>Mobile & Frontend</b></td>  
+      <td align="center"><b>Cybersecurity and OS</b></td>  
+    </tr>  
+    <tr>  
+      <td align="center">  
+        <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,c,c++&perline=2" alt="Frontend" /></a>  
+      </td>  
+      <td align="center">  
+        <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali,linux,python,android,windows &perline=3" alt="Security" /></a>  
+      </td>  
+    </tr>  
+  </table>  
+</div>  
+---
 
-<div align="center">SECURITY TOOLS
+📊 Real-Time Telemetry
 
-<br/><img src="https://img.shields.io/badge/NMAP-07111F?style=for-the-badge&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/JOHN_THE_RIPPER-07111F?style=for-the-badge&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/RED_HAWK-07111F?style=for-the-badge&logoColor=00E5FF"/><br/><br/>
+<div align="center">  
+  </a>  
+  <a href="https://github.com/nitinkharayat">  
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinkharayat&theme=radical&hide_border=true&background=0D1117&ring=00FF99&fire=FF0000&currStreakLabel=00FF99&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" height="195px" alt="GitHub Streak"/>  
+  </a>  
+</div>  
+---
 
-<img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark&perline=3" alt="Kali Linux Linux Bash"/></div>---
+🐍 Infinite Contribution Tracker (Live)
 
-<div align="center">CONTRIBUTIONS
+<div align="center">  
+  <!-- This SVG runs an endless animation loop directly in the browser -->  
+  <picture>  
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/output/github-contribution-grid-snake-dark.svg">  
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/output/github-contribution-grid-snake.svg">  
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/output/github-contribution-grid-snake.svg" width="100%">  
+  </picture>  
+</div>  
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinkharayat&bg_color=07111F&color=FFFFFF&line=00E5FF&point=8B5CF6&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/><br/><br/>
+📡 Secure Comms
 
-🐍 CONTRIBUTION SNAKE
-
-<img src="./output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/></div>---
-
-<div align="center"><a href="https://nitinkharayat.vercel.app">
-  <img src="https://img.shields.io/badge/nitinkharayat.vercel.app-07111F?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
-</a></div>
+<div align="center">  
+  <a href="https://nitinkharayat.vercel.com"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=Google-Chrome&logoColor=00FF99" alt="Website"/></a>  
+  <a href="mailto:kharayatnitin99@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email"/></a>  
+  <a href="https://linkedin.com/in/nitinkharayat"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF99" alt="LinkedIn"/></a>  
+</div>  <p align="center">  
+  <img src="https://profile-counter.glitch.me/nitinkharayat/count.svg" alt="Profile Views" />  
+</p>  
