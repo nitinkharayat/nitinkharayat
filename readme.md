@@ -1,71 +1,75 @@
-<div align="center"><a href="https://nitinkharayat.vercel.com" target="_blank">
+<div align="center"><a href="https://github.com/nitinkharayat">
   <img src="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/main/banner.gif" alt="Nitin Kharayat" width="100%"/>
-</a><br/><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&height=55&lines=Flutter+%26+Full-Stack+Engineer;Cybersecurity+%26+Penetration+Testing;Secure+Backend+Architecture;Building+Secure+Digital+Systems" alt="Typing SVG"/><br/><a href="https://nitinkharayat.vercel.com">
-  <img src="https://img.shields.io/badge/PORTFOLIO-07111F?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=07111F" />
+</a><br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=65&lines=Flutter+Developer;Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Digital+Systems" alt="Flutter Developer | Full-Stack Developer | Cybersecurity"/><br/><br/>
+
+<a href="https://github.com/nitinkharayat">
+  <img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 <a href="mailto:kharayatnitin99@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=FF4F64&labelColor=07111F" />
-</a>
-<a href="https://linkedin.com/in/nitinkharayat">
-  <img src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=07111F" />
+  <img src="https://img.shields.io/badge/Email-07111F?style=for-the-badge&logo=gmail&logoColor=FF4F64"/>
 </a></div>---
 
-⚡ System Overview
+👨‍💻 About Me
 
-I’m a Full-Stack Engineer focused on Flutter, backend systems, and cybersecurity.
+I’m a Flutter Developer focused on building modern cross-platform applications with clean interfaces, reliable architecture, and practical security.
 
-I enjoy building applications that combine strong engineering, clean interfaces, and security-first architecture.
+I also explore backend development, Python, Linux, and cybersecurity, with an interest in understanding how software can be built to be both useful and secure.
 
-- 🔭 Currently Exploring: Advanced Flutter, Backend Architecture & DevSecOps
-- 🛡️ Security Mindset: Think like an attacker. Build like an engineer.
-- 🚀 Primary Stack: Flutter · Dart · Python · C/C++ · Linux
-- 🌐 Portfolio: "nitinkharayat.vercel.com" (https://nitinkharayat.vercel.com)
-- 📫 Contact: "kharayatnitin99@gmail.com" (mailto:kharayatnitin99@gmail.com)
+- 📱 Primary Focus: Flutter & Dart
+- 🧠 Programming: Python, C++, C
+- 🛡️ Security: Linux, Kali Linux & application security
+- ⚙️ Currently Learning: Backend Architecture & DevSecOps
+- 🚀 Building: Mobile applications, developer tools & security-focused projects
 
 ---
 
-🧬 Technology Stack
+⚡ Tech Stack
 
-<div align="center">Mobile & Application Development
+<div align="center">📱 Flutter Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,c&theme=dark&perline=5" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perline=2"/><br/><br/>
 
-Security & Systems
+💻 Programming
 
-<img src="https://skillicons.dev/icons?i=kali,linux,windows,android,bash&theme=dark&perline=5" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark&perline=3"/><br/><br/>
 
-Development Environment
+🛡️ Security & Systems
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=4" /></div>---
+<img src="https://skillicons.dev/icons?i=linux,kali,windows,android,bash&theme=dark&perline=5"/><br/><br/>
 
-📊 GitHub Telemetry
+🧰 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=4"/></div>---
+
+🚀 What I Build
+
+<div align="center">Area| Focus
+📱 Flutter| Cross-platform mobile applications
+🐍 Python| Automation, tools & security projects
+⚙️ Backend| APIs & application architecture
+🛡️ Security| Secure development & security fundamentals
+🧩 Open Source| Developer tools and experimental projects
+
+</div>---
+
+📊 GitHub
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nitinkharayat&show_icons=true&hide_border=true&bg_color=07111F&title_color=00E5FF&text_color=FFFFFF&icon_color=8B5CF6&rank_icon=github" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkharayat&layout=compact&hide_border=true&bg_color=07111F&title_color=00E5FF&text_color=FFFFFF" height="180"/></div>---
+
+🔐 Development Philosophy
+
+<div align="center">«Build clean. Think securely. Ship consistently.»
+
+</div>I believe good software should not only work. It should be understandable, maintainable, and designed with security in mind from the beginning.
+
+---
+
+📡 Connect
 
 <div align="center"><a href="https://github.com/nitinkharayat">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinkharayat&theme=transparent&hide_border=true&background=07111F&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=94A3B8" height="195"/>
-</a></div>---
-
-🐍 Contribution Activity
-
-<div align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/output/github-contribution-grid-snake.svg" width="100%">
-</picture></div>---
-
-🔐 Secure Communications
-
-<div align="center"><a href="https://nitinkharayat.vercel.com">
-  <img src="https://img.shields.io/badge/WEBSITE-07111F?style=for-the-badge&logo=googlechrome&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a><a href="mailto:kharayatnitin99@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=FF4F64"/>
-</a><a href="https://linkedin.com/in/nitinkharayat">
-  <img src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-</a><a href="https://github.com/nitinkharayat">
-  <img src="https://img.shields.io/badge/GITHUB-07111F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a><br/><br/>
-
-<img src="https://profile-counter.glitch.me/nitinkharayat/count.svg" alt="Profile Views"/></div>---
-
-<div align="center">"SECURE • BUILD • DEPLOY • REPEAT"
-
-<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0B1F33,100:00E5FF&height=100&section=footer"/></div>
+  <img src="https://img.shields.io/badge/Email-07111F?style=for-the-badge&logo=gmail&logoColor=FF4F64"/>
+</a></div><br/><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0B1F33,100:00E5FF&height=100&section=footer"/></div>
