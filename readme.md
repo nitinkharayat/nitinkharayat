@@ -30,8 +30,7 @@ I am a **Full-Stack Engineer** who specializes in **Flutter** and **Scalable Bac
   <table>
     <tr>
       <td align="center"><b>Mobile & Frontend</b></td>
-      <td align="center"><b>Backend & Databases</b></td>
-      <td align="center"><b>Cybersecurity & OS</b></td>
+      <td align="center"><b>Cybersecurity and OS</b></td>
     </tr>
     <tr>
       <td align="center">
