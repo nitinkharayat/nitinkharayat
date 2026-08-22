@@ -173,7 +173,7 @@ I enjoy building practical applications, exploring security tools, and understan
   />
 </a>
 
-<a href="https://linkedin.com/in/nitinkharayat">
+<a href="https://linkedin.com/in/nitin-kharayat-0b523340a">
   <img
     src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF99"
     alt="LinkedIn"
