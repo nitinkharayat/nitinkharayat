@@ -27,40 +27,88 @@
 
 <div align="center">
   <h3>📊 Real-Time Developer Metrics & Core Ecosystem</h3>
-  <p><em>An analytical breakdown of languages, development environments, and output frameworks matching the dark theme layout.</em></p>
+  <p><em>An analytical breakdown mapping every tool, framework, and language to its functional capability and practical proficiency level.</em></p>
 </div>
 
-<!-- 3. UNIFIED THEME TEXT-PILL MATRIX TABLE (NO BIG GRAPHICAL ICONS, CLEAN FONT-BASED FEEL) -->
+<!-- 3. COMPREHENSIVE CAPABILITY & PROFICIENCY TABLE (THEMED CHIPS / NO LARGE GRAPHICAL ICONS, SHOWING CAPABILITIES AND READING/BASICS PROFICIENCY) -->
 <table align="center" width="100%">
   <thead>
     <tr>
-      <th align="center">🧠 Languages</th>
-      <th align="center">🛠️ IDEs & Tools</th>
-      <th align="center">🚀 Frameworks & Engines</th>
+      <th align="center">🧠 Technology / Tool</th>
+      <th align="center">⚡ Functional Output / What It Can Produce</th>
+      <th align="center">📊 Level / Proficiency</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">
-        <code><img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=38BDF8" alt="Python"></code><br>
-        <code><img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=38BDF8" alt="Dart"></code><br>
-        <code><img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=38BDF8" alt="C"></code><br>
-        <code><img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=38BDF8" alt="C++"></code><br>
-        <code><img src="https://img.shields.io/badge/GDScript-0D1117?style=flat-square&logo=godotengine&logoColor=38BDF8" alt="GDScript"></code>
-      </td>
-      <td align="center">
-        <code><img src="https://img.shields.io/badge/Android_Studio-0D1117?style=flat-square&logo=androidstudio&logoColor=38BDF8" alt="Android Studio"></code><br>
-        <code><img src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=flat-square&logo=intellijidea&logoColor=38BDF8" alt="IntelliJ IDEA"></code><br>
-        <code><img src="https://img.shields.io/badge/Dev--C++-0D1117?style=flat-square&logo=gnubash&logoColor=38BDF8" alt="Dev-C++"></code><br>
-        <code><img src="https://img.shields.io/badge/Godot_Engine-0D1117?style=flat-square&logo=godotengine&logoColor=38BDF8" alt="Godot Engine"></code><br>
-        <code><img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=38BDF8" alt="VS Code"></code>
-      </td>
-      <td align="center">
-        <code><img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=38BDF8" alt="Flutter"></code><br>
-        <code><img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=38BDF8" alt="Node.js"></code><br>
-        <code><img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS"></code><br>
-        <code><img src="https://img.shields.io/badge/Git_%2F_GitHub-0D1117?style=flat-square&logo=git&logoColor=38BDF8" alt="Git/GitHub"></code>
-      </td>
+      <td align="center"><code>Python</code></td>
+      <td align="left">Scripts, automation tasks, math utilities, data processing logic, and basic backend endpoints.</td>
+      <td align="center"><img src="https://img.shields.io/badge/Working_Knowledge-0D1117?style=flat-square&color=38BDF8" alt="Level"></td>
+    </tr>
+    <tr>
+      <td align="center"><code>Dart</code></td>
+      <td align="left">Object-oriented core architecture, asynchronous state streams, and UI controller logic.</td>
+      <td align="center"><img src="https://img.shields.io/badge/Working_Knowledge-0D1117?style=flat-square&color=38BDF8" alt="Level"></td>
+    </tr>
+    <tr>
+      <td align="center"><code>C</code></td>
+      <td align="left">Low-level memory management implementations, pointer operations, and procedural algorithms.</td>
+      <td align="center"><img src="https://img.shields.io/badge/Reading_%26_Basics-0D1117?style=flat-square&color=818CF8" alt="Level"></td>
+    </tr>
+    <tr>
+      <td align="center"><code>C++</code></td>
+      <td align="left">Object-oriented structural modeling, standard template library logic, and performance algorithms.</td>
+      <td align="center"><img src="https://img.shields.io/badge/Reading_%26_Basics-0D1117?style=flat-square&color=818CF8" alt="Level"></td>
+    </tr>
+    <tr>
+      <td align="center"><code>GDScript</code></td>
+      <td align="left">In-engine game scripting, node interaction trees, physics trigger management, and UI HUD bindings.</td>
+      <td align="center"><img src="https://img.shields.io/badge/Reading_%26_Basics-0D1117?style=flat-square&color=818CF8" alt="Level"></td>
+    </tr>
+    <tr>
+      <td align="center"><code>Flutter</code></td>
+      <td align="left">Cross-platform mobile apps (Android/iOS), adaptive layouts, custom widgets, and responsive UI flows.</td>
+      <td align="center"><img src="https://img.shields.io/badge/Working_Knowledge-0D1117?style=flat-square&color=38BDF8" alt="Level"></td>
+    </tr>
+    <tr>
+      <td align="center"><code>Godot Engine</code></td>
+      <td align="left">2D/3D interactive scene structures, game environment layouts, and node-based scene orchestration.</td>
+      <td align="center"><img src="https://img.shields.io/badge/Reading_%26_Basics-0D1117?style=flat-square&color=818CF8" alt="Level"></td>
+    </tr>
+    <tr>
+      <td align="center"><code>Android Studio</code></td>
+      <td align="left">Mobile application debugging, virtual device emulation, Gradle builds, and APK packaging outputs.</td>
+      <td align="center"><img src="https://img.shields.io/badge/Working_Knowledge-0D1117?style=flat-square&color=38BDF8" alt="Level"></td>
+    </tr>
+    <tr>
+      <td align="center"><code>IntelliJ IDEA</code></td>
+      <td align="left">Structured project workspace management, code refactoring, and multi-file debugging configurations.</td>
+      <td align="center"><img src="https://img.shields.io/badge/Working_Knowledge-0D1117?style=flat-square&color=38BDF8" alt="Level"></td>
+    </tr>
+    <tr>
+      <td align="center"><code>Dev-C++</code></td>
+      <td align="left">Compiling and testing raw C/C++ source code files inside a lightweight standalone IDE workspace.</td>
+      <td align="center"><img src="https://img.shields.io/badge/Working_Knowledge-0D1117?style=flat-square&color=38BDF8" alt="Level"></td>
+    </tr>
+    <tr>
+      <td align="center"><code>VS Code</code></td>
+      <td align="left">Multi-language code editing, extension-driven workspace deployment, and terminal command handling.</td>
+      <td align="center"><img src="https://img.shields.io/badge/Working_Knowledge-0D1117?style=flat-square&color=38BDF8" alt="Level"></td>
+    </tr>
+    <tr>
+      <td align="center"><code>Node.js</code></td>
+      <td align="left">Basic server-side script evaluations, package dependency handling via npm, and local runtimes.</td>
+      <td align="center"><img src="https://img.shields.io/badge/Reading_%26_Basics-0D1117?style=flat-square&color=818CF8" alt="Level"></td>
+    </tr>
+    <tr>
+      <td align="center"><code>Tailwind CSS</code></td>
+      <td align="left">Utility-first modern web styling, custom responsive design classes, and layout token styling.</td>
+      <td align="center"><img src="https://img.shields.io/badge/Reading_%26_Basics-0D1117?style=flat-square&color=818CF8" alt="Level"></td>
+    </tr>
+    <tr>
+      <td align="center"><code>Git / GitHub</code></td>
+      <td align="left">Version control tracking, branch management, commit logs, and remote repository syncing.</td>
+      <td align="center"><img src="https://img.shields.io/badge/Working_Knowledge-0D1117?style=flat-square&color=38BDF8" alt="Level"></td>
     </tr>
   </tbody>
 </table>
