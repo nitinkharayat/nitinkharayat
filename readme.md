@@ -27,10 +27,10 @@
 
 <div align="center">
   <h3>📊 Real-Time Developer Metrics & Core Ecosystem</h3>
-  <p><em>An analytical breakdown of languages, development environments, and output frameworks.</em></p>
+  <p><em>An analytical breakdown of languages, development environments, and output frameworks matching the dark theme layout.</em></p>
 </div>
 
-<!-- 3. ADVANCED MULTI-COLUMN STRUCTURED MATRIX TABLE -->
+<!-- 3. UNIFIED THEME TEXT-PILL MATRIX TABLE (NO BIG GRAPHICAL ICONS, CLEAN FONT-BASED FEEL) -->
 <table align="center" width="100%">
   <thead>
     <tr>
@@ -42,24 +42,24 @@
   <tbody>
     <tr>
       <td align="center">
-        <code>Python</code><br>
-        <code>Dart</code><br>
-        <code>C</code><br>
-        <code>C++</code><br>
-        <code>GDScript</code>
+        <code><img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=38BDF8" alt="Python"></code><br>
+        <code><img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=38BDF8" alt="Dart"></code><br>
+        <code><img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=38BDF8" alt="C"></code><br>
+        <code><img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=38BDF8" alt="C++"></code><br>
+        <code><img src="https://img.shields.io/badge/GDScript-0D1117?style=flat-square&logo=godotengine&logoColor=38BDF8" alt="GDScript"></code>
       </td>
       <td align="center">
-        <code>Android Studio</code><br>
-        <code>IntelliJ IDEA</code><br>
-        <code>Dev-C++</code><br>
-        <code>Godot Engine</code><br>
-        <code>VS Code</code>
+        <code><img src="https://img.shields.io/badge/Android_Studio-0D1117?style=flat-square&logo=androidstudio&logoColor=38BDF8" alt="Android Studio"></code><br>
+        <code><img src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=flat-square&logo=intellijidea&logoColor=38BDF8" alt="IntelliJ IDEA"></code><br>
+        <code><img src="https://img.shields.io/badge/Dev--C++-0D1117?style=flat-square&logo=gnubash&logoColor=38BDF8" alt="Dev-C++"></code><br>
+        <code><img src="https://img.shields.io/badge/Godot_Engine-0D1117?style=flat-square&logo=godotengine&logoColor=38BDF8" alt="Godot Engine"></code><br>
+        <code><img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=38BDF8" alt="VS Code"></code>
       </td>
       <td align="center">
-        <code>Flutter</code><br>
-        <code>Node.js</code><br>
-        <code>Tailwind CSS</code><br>
-        <code>Git / GitHub</code>
+        <code><img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=38BDF8" alt="Flutter"></code><br>
+        <code><img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=38BDF8" alt="Node.js"></code><br>
+        <code><img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS"></code><br>
+        <code><img src="https://img.shields.io/badge/Git_%2F_GitHub-0D1117?style=flat-square&logo=git&logoColor=38BDF8" alt="Git/GitHub"></code>
       </td>
     </tr>
   </tbody>
@@ -89,16 +89,6 @@
 <div align="center">
   <h3>🌱 Contribution Graph Activity</h3>
   <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinkharayat&theme=tokyonight&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=F43F5E&background=0D1117" alt="Activity Graph" width="100%" /></p>
-</div>
-
----
-
-<!-- 6. TRENDING MODERN DEV GUI COMPONENT (TECH STACK RADAR BAR / INTERACTIVE BADGE WALL) -->
-<div align="center">
-  <h3>⚡ Technology Proficiency & Stack Radar</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,dart,c,cpp,godot,flutter,androidstudio,idea,devto,vscode,git,github,linux,tailwind" alt="Skill Icons Wall" />
-  </p>
 </div>
 
 ---
