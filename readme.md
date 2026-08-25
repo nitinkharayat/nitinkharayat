@@ -484,6 +484,7 @@ Security           : Cybersecurity Fundamentals
 Problem Solving    : DSA / Discrete Structures
 Systems            : Windows / Linux Architecture
 Development Model  : Learn → Build → Solve → Publish
+Projects type : related to flutter,cybersecurity and programming languages 
 ─────────────────────────────────────────────
 ```
 
