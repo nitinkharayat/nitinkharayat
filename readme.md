@@ -45,7 +45,7 @@ My goal is to understand security from both the attacker's and defender's perspe
 
 | Domain | Technologies |
 |---|---|
-| Security | Kali Linux, Linux, Security Fundamentals |
+| Security | Archcraft, Linux, Security Fundamentals |
 | Programming | Python, C, C++ |
 | App Development | Flutter, Dart |
 | Computer Science | DSA, OOP, Discrete Structures |
