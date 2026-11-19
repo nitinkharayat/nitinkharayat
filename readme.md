@@ -1,4 +1,4 @@
-# 🍳 Something's cooking...(in orivate)
+# 🍳 Something's cooking...(inside)
 
 ### Red teaming on the main burner. Flutter on the side. 🔥
 
