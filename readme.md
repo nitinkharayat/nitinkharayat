@@ -1,104 +1,121 @@
-# 🍳 Something's cooking...(inside)
+# Nitin Kharayat
 
-### Red teaming on the main burner. Flutter on the side. 🔥
+![Profile banner](https://raw.githubusercontent.com/nitinkharayat/nitinkharayat/main/banner.gif)
 
-```bash
-NITIN@K-WORKSTATION:~$ whoami
+**Computer Science Student · Cybersecurity Learner · Flutter Developer**
 
-Nitin Kharayat
-B.Tech CSE Student | Cybersecurity Enthusiast
-Aspiring Red Teamer | Developer
-```
+I'm Nitin — a Computer Science student who enjoys understanding how systems work, exploring how they can fail, and building useful things from what I learn.
 
-I'm Nitin — a Computer Science student interested in understanding how systems work, how they break, and how to make them stronger.
+My main interests are **cybersecurity, ethical offensive-security practice, OSINT, and application development**. I like projects that turn curiosity into something practical: a tool, a learning experience, a digital archive, or a working hardware showcase.
 
-My primary focus is **Cybersecurity, especially Red Teaming and Offensive Security**. I'm learning to think like an attacker, explore vulnerabilities, understand attack surfaces, and improve security through ethical, authorized testing.
-
-I also enjoy building useful applications with Flutter and experimenting with Python, C/C++, and Linux.
+[Portfolio](https://nitinkharayat.vercel.app) · [GitHub](https://github.com/nitinkharayat) · [Email](mailto:kharayatnitin99@gmail.com)
 
 ---
 
-## 🛡️ 01 // RED TEAMING & CYBERSECURITY
+## Projects
 
-**The main quest.**
+A collection of experiments and builds driven by a simple idea: learn by making, and make things that help someone.
 
-I'm building my knowledge of offensive security one concept and lab at a time.
+### 1. Bug Busters — Hardware Project Showcase
 
-Areas I'm exploring:
+A showcase for a hardware-focused project, giving the physical build a place to be explored online. The goal is to make the work behind the hardware visible, understandable, and easier to present.
 
-- 🔎 Reconnaissance & OSINT
-- 🌐 Network Analysis & Enumeration
-- 🕸️ Web Application Security
-- 🐉 Kali Linux & Linux Command Line
-- 🔐 Password & Credential Auditing
-- ⚡ Exploitation Fundamentals
-- 🧪 Security Testing in Controlled Labs
-- 📝 Vulnerability Analysis & Reporting
+[Live showcase](https://bug-busters-hazel.vercel.app/)
 
-`Recon → Enumeration → Analysis → Testing → Reporting`
+### 2. Smriti Setu — Digital Heritage
 
-My goal is to understand security from both the attacker's and defender's perspectives.
+A digital experience inspired by the life, ideas, and legacy of **Dr. B. R. Ambedkar**. Smriti Setu is about using the web to preserve important stories, make them easier to explore, and carry their ideas to new audiences.
 
----
+[Live experience](https://smritisetu-theta.vercel.app/) · [Ambedkar edition](https://smritisetuambedkar.vercel.app/)
 
-## ⚙️ 02 // MY TECH STACK
+### 3. WildQuest — Explore Beyond the Screen
 
-| Domain | Technologies |
-|---|---|
-| Security | Archcraft, Linux, Security Fundamentals |
-| Programming | Python, C, C++ |
-| App Development | Flutter, Dart |
-| Computer Science | DSA, OOP, Discrete Structures |
-| Systems | Windows, Linux |
+A playful concept for encouraging outdoor discovery through quests. WildQuest explores how technology can motivate people to observe, move, and engage with the world around them instead of staying in front of a screen.
 
----
+[Live demo](https://wildquest-gamma.vercel.app/)
 
-## 🚀 03 // THINGS I'VE BUILT
+### 4. OSINT by Nitin — Open-Source Intelligence
 
-### 🔑 [PCAG — Password Checker & Generator](https://github.com/nitinkharayat/PCAG-PASSWORD-CHECKER-AND-GENERATOR-)
+A curated starting point for OSINT learning and research. It brings useful tools and references into one place and reflects my interest in reconnaissance, responsible investigation, and making sense of publicly available information.
 
-A Flutter application for checking password strength and generating passwords, built with Dart and Material 3.
+[Explore OSINT by Nitin](https://osintbynitin.vercel.app/)
 
-### 🧮 Calcora
+### 5. PCAG — Password Checker & Generator
 
-A compact calculator and utility project focused on clean interfaces and practical functionality.
+A Flutter application built around two practical security tasks: generating strong passwords and checking password strength. It includes real-time strength feedback, security tips, clipboard copying, and light and dark themes in a Material 3 interface.
 
-Explore it through my [portfolio](https://nitinkharayat.vercel.app).
+**Built with:** Flutter · Dart · Material 3
+
+[View source code](https://github.com/nitinkharayat/PCAG-PASSWORD-CHECKER-AND-GENERATOR-)
+
+### 6. Calcora — Calculator Utility
+
+A lightweight calculator project focused on making everyday calculations feel straightforward through a clean, approachable interface. Calcora is part of my ongoing interest in building small tools that solve familiar problems well.
+
+[View Calcora in my portfolio](https://nitinkharayat.vercel.app/)
 
 ---
 
-## 🧠 04 // CURRENT MINDSET
+## Skills & Areas of Interest
+
+### Cybersecurity
+- Reconnaissance and Open-Source Intelligence (OSINT)
+- Network analysis and enumeration
+- Web application security fundamentals
+- Password and credential auditing
+- Exploitation fundamentals
+- Security testing in controlled, authorized labs
+- Vulnerability analysis and reporting
+
+### Programming & Development
+- **Languages:** Python, C, C++, Dart
+- **App development:** Flutter
+- **UI development:** Material 3
+- **Application interests:** utility apps, security tools, and practical prototypes
+
+### Computer Science Foundations
+- Data Structures and Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Discrete Structures
+
+### Systems & Environment
+- Linux and command-line workflows
+- Archcraft Linux and Kali Linux
+- Windows
+
+---
+
+## Technology Snapshot
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+---
+
+## How I Like to Learn
 
 ```text
-Learn something.
-Understand how it works.
+Stay curious.
+Understand the fundamentals.
 Build something useful.
 Test it ethically.
-Break it in a lab.
-Learn why it broke.
-Make it better.
+Learn from what breaks.
+Improve the next version.
 ```
 
-I believe good security starts with curiosity and a willingness to understand what's happening beneath the surface.
+I'm continuing to grow my skills through hands-on projects, experiments, and consistent learning. My aim is to become a thoughtful security practitioner and developer who can both understand systems deeply and build things that are genuinely useful.
 
 ---
 
-## 📡 05 // CONNECT
+## Connect
 
-🌐 **Portfolio:** [nitinkharayat.vercel.app](https://nitinkharayat.vercel.app)
+- **Portfolio:** https://nitinkharayat.vercel.app
+- **GitHub:** https://github.com/nitinkharayat
+- **Email:** kharayatnitin99@gmail.com
 
-💻 **GitHub:** [@nitinkharayat](https://github.com/nitinkharayat)
-
-📧 **Email:** [kharayatnitin99@gmail.com](mailto:kharayatnitin99@gmail.com)
-
----
-
-```bash
-NITIN@K-WORKSTATION:~$ echo "Keep learning. Keep building."
-
-Keep learning. Keep building.
-```
-
-*Curiosity is the exploit. Knowledge is the privilege.* 🔥
-
-
+*Curiosity is the starting point. Building is how I learn.*
